@@ -1,0 +1,47 @@
+* body {
+    background-color: lightslategrey;
+    color:#ffffff;
+    box-sizing: border-box;   
+    border: 1px solid dodgerblue; 
+    padding:10px 10px;
+}
+@media (min-width:370px){
+    h1 {
+        color: dodgerblue;
+        font-size:;
+    }
+}
+
+@media (min-width:720px){
+    h1 {
+        color:burlywood;
+        font-size: 50px;
+    }
+}
+@media (min-width:720px){
+    .magenta {
+        background-color: dodgerblue;
+        font-size: larger;
+    }
+}
+
+.blue {
+    background-color: dodgerblue;
+    color: #ffffff;
+}
+.magenta {
+    background-color: magenta;
+    color:#ffffff;
+}
+.headings {
+    text-align: center;
+}
+.main-sect-1 {
+    text-align: center;
+}
+.ftr-1 {
+    border: 1px solid white;
+    text-align: center;
+    padding: 12px 8px;
+    color:aqua
+}
