@@ -28,6 +28,7 @@
 .blue {
     background-color: dodgerblue;
     color: #ffffff;
+    padding: 10px 10px;
 }
 .magenta {
     background-color: magenta;
@@ -35,6 +36,7 @@
 }
 .headings {
     text-align: center;
+    border: 6px double white;
 }
 .main-sect-1 {
     text-align: center;
