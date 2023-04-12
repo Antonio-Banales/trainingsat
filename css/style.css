@@ -2,7 +2,7 @@
     background-color: lightslategrey;
     color:#ffffff;
     box-sizing: border-box;   
-    border: 1px solid dodgerblue; 
+    border: 2px double dodgerblue; 
     padding:10px 10px;
 }
 @media (min-width:370px){
@@ -14,7 +14,7 @@
 
 @media (min-width:720px){
     h1 {
-        color:burlywood;
+        color:white;
         font-size: 50px;
     }
 }
@@ -35,7 +35,7 @@
     color:#ffffff;
 }
 .headings {
-    text-align: center;
+    text-align: right;
     border: 6px double white;
 }
 .main-sect-1 {
@@ -45,5 +45,9 @@
     border: 1px solid white;
     text-align: center;
     padding: 12px 8px;
-    color:aqua
+    color:white;
+}
+.paragraphs {
+    text-align: center;
+    color:black;
 }
