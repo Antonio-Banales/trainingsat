@@ -34,20 +34,32 @@
     background-color: magenta;
     color:#ffffff;
 }
-.headings {
-    text-align: right;
-    border: 6px double white;
+.section1 {
+    background-image: linear-gradient(
+        hsl(226, 39% 32%),
+        hsl(226, 39% 10%));
 }
+
 .main-sect-1 {
     text-align: center;
 }
+
 .ftr-1 {
-    border: 1px solid white;
+    
     text-align: center;
-    padding: 12px 8px;
+    
     color:white;
 }
+
 .paragraphs {
     text-align: center;
     color:black;
+}
+
+#section1 {
+    background: linear-gradient(#e66465 90%, #9198e5 90%) ;
+}
+
+.ftr-1 {
+    background: linear-gradient(lightslategrey, lightblue);
 }
